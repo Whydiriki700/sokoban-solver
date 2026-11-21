@@ -1,3 +1,5 @@
+![sokoban-solver](assets/preview.png)
+
 # sokoban-solver
 
 A room-by-room, push-optimal Sokoban solver, built for the make.fun
